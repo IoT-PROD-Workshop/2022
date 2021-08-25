@@ -27,3 +27,14 @@ IoT-PROD’22 aims to provide a forum that brings together authors from the rese
 ## Important Dates
 * **Paper submission deadline: November 14, 2021**
 * **Paper notification: January 5, 2022**
+
+## Submission Details (Subject to Change)
+Paper submission must be done for the main conference and all associated events via EDAS. If you do not have an EDAS account, please, register first (it’s free) via the following link: [TBD](). The direct submission link for IoT-PROD 2022 is [TBD]().
+
+IoT-PROD 2022 will follow a double-blind review process. As a result, authors must make a good faith effort to anonymize their submissions.
+
+Submitted papers must be unpublished and not considered elsewhere for publication. Also, they must show a significant relevance to pervasive computing and communications. Submitted papers will undergo a rigorous review process handled by the Technical Program Committee. Only electronic submissions in PDF format will be considered.
+
+The IEEE LaTeX and Microsoft Word templates, as well as formatting instructions, can be found [here](https://www.ieee.org/conferences/publishing/templates.html). Papers must be at most 6 pages of technical content (10pt font, 2-column format), including text, figures, and tables and up to one additional page for references only.
+
+Accepted papers will be published in IEEE Xplore. All accepted papers will be invited to submit an associated artifact abstract providing the code, data, results, etc. associated with the contribution.
