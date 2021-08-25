@@ -24,7 +24,7 @@ IoT-PROD’22 aims to provide a forum that brings together authors from the rese
 * Software Engineering and Architecture for IoT (reusability of AI models, pay per feature, microservices)
 * Longevity of IoT deployments
 
-## Important Dates
+## Important Dates (Tentative and Subject to Change)
 * **Paper submission deadline: November 14, 2021**
 * **Paper notification: January 5, 2022**
 
