@@ -38,3 +38,24 @@ Submitted papers must be unpublished and not considered elsewhere for publicatio
 The IEEE LaTeX and Microsoft Word templates, as well as formatting instructions, can be found [here](https://www.ieee.org/conferences/publishing/templates.html). Papers must be at most 6 pages of technical content (10pt font, 2-column format), including text, figures, and tables and up to one additional page for references only.
 
 Accepted papers will be published in IEEE Xplore. All accepted papers will be invited to submit an associated artifact abstract providing the code, data, results, etc. associated with the contribution.
+
+## Program Committee
+
+### Organisers
+* [Nicola Bicocchi](http://personale.unimore.it/rubrica/dettaglio/nbicocchi)
+  * Università di Modena e Reggio, Emilia, Italy
+  * Email: nicola.bicocchi@unimore.it
+* [Marco Picone](https://www.marcopicone.net)
+  * Università di Modena e Reggio, Emilia, Italy
+  * Email: marco.picone@unimore.it
+* [Alexander Artemenko]()
+  * Robert Bosch GmbH, Stuttgart, Germany
+  * Email: Alexander.Artemenko@de.bosch.com
+* [Torben Weis](https://vs.uni-due.de/person/weis/)
+  * University of Duisburg-Essen, Germany
+  * Email: torben.weis@uni-due.de   
+
+### Publicity Chair
+* [Peter Zdankin](https://vs.uni-due.de/person/zdankin/)
+  * University of Duisburg-Essen, Germany
+  * Email: peter.zdankin@uni-due.de
