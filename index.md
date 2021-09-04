@@ -24,20 +24,22 @@ IoT-PROD’22 aims to provide a forum that brings together authors from the rese
 * Software Engineering and Architecture for IoT (reusability of AI models, pay per feature, microservices)
 * Longevity of IoT deployments
 
-## Important Dates (Tentative and Subject to Change)
-* **Paper submission deadline: November 14, 2021**
+You can download the updated Pdf of the Call for Paper [here](https://github.com/IoT-PROD-Workshop/2022/raw/gh-pages/iotprod_workshop_percom_2022_cfp_040921.pdf)
+
+## Important Dates
+* **Submission (via EDAS): Nov. 14, 2021**
 * **Paper notification: January 5, 2022**
+* **Camera-ready: Feb 5, 2022**
 
-## Submission Details (Subject to Change)
-Paper submission must be done for the main conference and all associated events via EDAS. If you do not have an EDAS account, please, register first (it’s free) via the following link: [TBD](). The direct submission link for IoT-PROD 2022 is [TBD]().
+## Submission Details
 
-IoT-PROD 2022 will follow a double-blind review process. As a result, authors must make a good faith effort to anonymize their submissions.
+Paper submission must be done for the main conference and all associated events via EDAS. If you do not have an EDAS account, please, register first (it’s free) via the following For additional information about the submission you can visit: https://www.percom.org/.
 
-Submitted papers must be unpublished and not considered elsewhere for publication. Also, they must show a significant relevance to pervasive computing and communications. Submitted papers will undergo a rigorous review process handled by the Technical Program Committee. Only electronic submissions in PDF format will be considered.
+Submitted papers must be unpublished and not considered elsewhere for publication and they will undergo a rigorous review process handled by the Technical Program Committee. Only electronic submissions in PDF format will be considered.
 
-The IEEE LaTeX and Microsoft Word templates, as well as formatting instructions, can be found [here](https://www.ieee.org/conferences/publishing/templates.html). Papers must be at most 6 pages of technical content (10pt font, 2-column format), including text, figures, and tables and up to one additional page for references only.
+Papers must be at most of 6 pages (overall, i.e., including references) using the IEEE template (available both for Latex and Microsoft Word), 10pt font, 2-column format (same templates as main conference: https://www.ieee.org/conferences/publishing/templates.html). Papers in excess of page limits will not be considered for review or publication. The IoT-PROD is single-blind. Accepted papers will be published in IEEE Xplore.
 
-Accepted papers will be published in IEEE Xplore. All accepted papers will be invited to submit an associated artifact abstract providing the code, data, results, etc. associated with the contribution.
+Each accepted workshop paper requires a full PerCom registration (no registration is available for workshops only); otherwise, the paper will be withdrawn from publication. The authors of all accepted papers must guarantee that their paper will be presented at the workshop. Papers not presented at the workshop will be considered as a "no-show" and it will not be included in the proceedings.
 
 ## Program Committee
 
