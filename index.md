@@ -33,11 +33,11 @@ You can download the updated Pdf of the Call for Paper [here](https://github.com
 
 ## Submission Details
 
-Paper submission must be done for the main conference and all associated events via EDAS. If you do not have an EDAS account, please, register first (it’s free) via the following For additional information about the submission you can visit: https://www.percom.org/.
+Paper submission must be done for the main conference and all associated events via EDAS. If you do not have an EDAS account, please, register first (it’s free) via the following For additional information about the submission you can visit: [https://www.percom.org/]https://www.percom.org/.
 
 Submitted papers must be unpublished and not considered elsewhere for publication and they will undergo a rigorous review process handled by the Technical Program Committee. Only electronic submissions in PDF format will be considered.
 
-Papers must be at most of 6 pages (overall, i.e., including references) using the IEEE template (available both for Latex and Microsoft Word), 10pt font, 2-column format (same templates as main conference: https://www.ieee.org/conferences/publishing/templates.html). Papers in excess of page limits will not be considered for review or publication. The IoT-PROD is single-blind. Accepted papers will be published in IEEE Xplore.
+Papers must be at most of 6 pages (overall, i.e., including references) using the IEEE template (available both for Latex and Microsoft Word), 10pt font, 2-column format (same templates as main conference: [https://www.ieee.org/conferences/publishing/templates.html]https://www.ieee.org/conferences/publishing/templates.html). Papers in excess of page limits will not be considered for review or publication. The IoT-PROD is single-blind. Accepted papers will be published in IEEE Xplore.
 
 Each accepted workshop paper requires a full PerCom registration (no registration is available for workshops only); otherwise, the paper will be withdrawn from publication. The authors of all accepted papers must guarantee that their paper will be presented at the workshop. Papers not presented at the workshop will be considered as a "no-show" and it will not be included in the proceedings.
 
