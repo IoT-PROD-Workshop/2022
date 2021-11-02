@@ -61,3 +61,13 @@ Each accepted workshop paper requires a full PerCom registration (no registratio
 * [Peter Zdankin](https://vs.uni-due.de/person/zdankin/)
   * University of Duisburg-Essen, Germany
   * Email: peter.zdankin@uni-due.de
+
+### Technical Program Committee
+
+* Luca Veltri - University of Parma, Italy
+* Marco Mamei - University of Modena and Reggio Emilia, Italy
+* Pietro Manzoni - Universitat Politècnica de València, Spain
+* Carlo Giannelli - University of Ferrara, Italy
+* Antonio Virdis - University of Pisa, Italy
+* Maria Fazio - University of Messina, Italy
+
