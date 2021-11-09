@@ -27,7 +27,7 @@ IoT-PROD’22 aims to provide a forum that brings together authors from the rese
 You can download the updated Pdf of the Call for Paper [here](https://github.com/IoT-PROD-Workshop/2022/raw/gh-pages/iotprod_workshop_percom_2022_cfp_040921.pdf)
 
 ## Important Dates
-* **Submission (via EDAS): Nov. 14, 2021**
+* **Submission (via EDAS): <s>Nov. 14</s>, Nov 30 2021**
 * **Paper notification: January 5, 2022**
 * **Camera-ready: Feb 5, 2022**
 
