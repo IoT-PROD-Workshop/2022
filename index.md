@@ -33,7 +33,9 @@ You can download the updated Pdf of the Call for Paper [here](https://github.com
 
 ## Submission Details
 
-Paper submission must be done for the main conference and all associated events via EDAS. If you do not have an EDAS account, please, register first (it’s free) via the following For additional information about the submission you can visit: <a href="https://www.percom.org/" target="_blank">https://www.percom.org/</a>.
+Paper submission must be done for the main conference and all associated events via EDAS. If you do not have an EDAS account, please, register first (it’s free) via the following link: <a href="https://edas.info/" target="_blank">https://edas.info/</a> For additional information about the submission you can visit: <a href="https://www.percom.org/" target="_blank">https://www.percom.org/</a>.
+
+Submission Link: <a href="https://edas.info/N29010" target="_blank">https://edas.info/N29010</a>
 
 Submitted papers must be unpublished and not considered elsewhere for publication and they will undergo a rigorous review process handled by the Technical Program Committee. Only electronic submissions in PDF format will be considered.
 
