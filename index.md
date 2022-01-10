@@ -43,6 +43,19 @@ Papers must be at most of 6 pages (overall, i.e., including references) using th
 
 Each accepted workshop paper requires a full PerCom registration (no registration is available for workshops only); otherwise, the paper will be withdrawn from publication. The authors of all accepted papers must guarantee that their paper will be presented at the workshop. Papers not presented at the workshop will be considered as a "no-show" and it will not be included in the proceedings.
 
+## Accepted Papers
+
+* **RBDA: Redactable Blockchain based Secure Data Aggregation Scheme for IoT Enabled Cloud Paradigm**
+  * Rahul Mishra, Dharavath Ramesh, Nazeeruddin Mohammad
+* **Interworking between LoRaWAN and non-LoRa IoT systems**
+  * Amin Tayebi, Luca Veltri, Francesco Zanichelli, Stefano Caselli
+* **IoT Edge Server ROS Node Allocation Method for Multi-SLAM on Many-core**
+  * Masato Fukui, Yoichi Ishiwata, Takeshi Ohkawa, Midori Sugaya
+* **Seamless Integration of RESTful Web Services with the Web of Things**
+  * Ivan Zyrianoff, Lorenzo Gigli, Federico Montori, Cristiano Aguzzi, Sebastian Kaebisch, Marco Di Felice
+* **An Evaluation of a Semantic Thing To Service Matching Approach in Industrial IoT Environments**
+  * Nisrine Bnouhanna, Erkan Karabulut, Rute C. Sofia, Erin E Seder, Gabriele Scivoletto, Gianluca Insolvibile
+
 ## Program Committee
 
 ### Organisers
