@@ -56,6 +56,11 @@ Each accepted workshop paper requires a full PerCom registration (no registratio
 * **An Evaluation of a Semantic Thing To Service Matching Approach in Industrial IoT Environments**
   * Nisrine Bnouhanna, Erkan Karabulut, Rute C. Sofia, Erin E Seder, Gabriele Scivoletto, Gianluca Insolvibile
 
+## Registration
+**Each accepted workshop paper requires a full PerCom registration (no registration is available for workshops only)**. Otherwise, the paper will be withdrawn from publication. The authors of all accepted papers must guarantee that their paper will be presented at the workshop. Papers not presented at the workshop will be considered as a "**no-show**" and it will **not be included in the proceedings**.
+
+Registration link: [here](http://www.percom.org/registration/)
+
 ## Program Committee
 
 ### Organisers
