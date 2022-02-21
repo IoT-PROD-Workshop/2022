@@ -61,6 +61,9 @@ Each accepted workshop paper requires a full PerCom registration (no registratio
 
 Registration link: [here](http://www.percom.org/registration/)
 
+## Technical Program
+The program can be found [here](https://github.com/IoT-PROD-Workshop/2022/blob/gh-pages/iotprod_2022_program.pdf)
+
 ## Program Committee
 
 ### Organisers
